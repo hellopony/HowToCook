@@ -127,6 +127,7 @@
 - [香干芹菜炒肉](./dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md)
 - [香干肉丝](./dishes/meat_dish/香干肉丝.md)
 - [香菇滑鸡](./dishes/meat_dish/香菇滑鸡/香菇滑鸡.md)
+- [香煎五花肉](./dishes/meat_dish/香煎五花肉/香煎五花肉.md)
 - [小炒黄牛肉](./dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md)
 - [小炒肉](./dishes/meat_dish/小炒肉.md)
 - [新疆大盘鸡](./dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md)
@@ -137,6 +138,7 @@
 - [鱼香肉丝](./dishes/meat_dish/鱼香肉丝.md)
 - [猪皮冻](./dishes/meat_dish/猪皮冻/猪皮冻.md)
 - [猪肉烩酸菜](./dishes/meat_dish/猪肉烩酸菜.md)
+- [柱候牛腩](./dishes/meat_dish/柱候牛腩/柱候牛腩.md)
 - [孜然牛肉](./dishes/meat_dish/孜然牛肉.md)
 - [醉排骨](./dishes/meat_dish/醉排骨/醉排骨.md)
 
@@ -213,6 +215,7 @@
 - [酸辣蕨根粉](./dishes/staple/酸辣蕨根粉.md)
 - [汤面](./dishes/staple/汤面.md)
 - [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
+- [西红柿鸡蛋挂面](./dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [炸酱面](./dishes/staple/炸酱面.md)
 - [蒸卤面](./dishes/staple/蒸卤面.md)
 - [中式馅饼](./dishes/staple/中式馅饼/中式馅饼.md)
