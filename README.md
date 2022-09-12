@@ -89,6 +89,7 @@
 ### 荤菜
 
 - [白菜猪肉炖粉条](./dishes/meat_dish/白菜猪肉炖粉条.md)
+- [冬瓜酿肉](./dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [番茄红酱](./dishes/meat_dish/番茄红酱.md)
 - [干煸仔鸡](./dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
 - [宫保鸡丁](./dishes/meat_dish/宫保鸡丁/宫保鸡丁.md)
@@ -268,12 +269,12 @@
 
 - [耙耙柑茶](./dishes/drink/耙耙柑茶/耙耙柑茶.md)
 - [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
+- [冰粉](./dishes/drink/冰粉/冰粉.md)
 - [金菲士](./dishes/drink/金菲士/金菲士.md)
 - [金汤力](./dishes/drink/金汤力/金汤力.md)
 - [可乐桶](./dishes/drink/可乐桶.md)
 - [奶茶](./dishes/drink/奶茶.md)
 - [奇异果菠菜特调](./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
-- [石凉粉（冰粉）](./dishes/drink/石凉粉(冰粉)/石凉粉(冰粉).md)
 - [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 - [泰国手标红茶](./dishes/drink/泰国手标红茶/泰国手标红茶.md)
