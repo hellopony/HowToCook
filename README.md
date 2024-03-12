@@ -5,6 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 ![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
+[![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://hub.aiursoft.cn/#!/taglist/anduin/howtocook)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -296,6 +297,7 @@
 - [耙耙柑茶](./dishes/drink/耙耙柑茶/耙耙柑茶.md)
 - [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 - [冰粉](./dishes/drink/冰粉/冰粉.md)
+- [菠萝咖啡特调](./dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
 - [金菲士](./dishes/drink/金菲士/金菲士.md)
 - [金汤力](./dishes/drink/金汤力/金汤力.md)
 - [可乐桶](./dishes/drink/可乐桶.md)
