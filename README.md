@@ -236,6 +236,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [太阳蛋](dishes/breakfast/太阳蛋.md)
 - [溏心蛋](dishes/breakfast/溏心蛋.md)
 - [吐司果酱](dishes/breakfast/吐司果酱.md)
+- [完美水煮蛋](dishes/breakfast/完美水煮蛋.md)
 - [微波炉蛋糕](dishes/breakfast/微波炉蛋糕.md)
 - [微波炉荷包蛋](dishes/breakfast/微波炉荷包蛋.md)
 - [温泉蛋](dishes/breakfast/温泉蛋/温泉蛋.md)

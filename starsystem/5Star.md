@@ -1,5 +1,6 @@
 # 5 星难度菜品
 
+* [完美水煮蛋](./../dishes/breakfast/完美水煮蛋.md)
 * [戚风蛋糕](./../dishes/dessert/戚风蛋糕/戚风蛋糕.md)
 * [芋泥雪媚娘](./../dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 * [台式卤肉饭](./../dishes/meat_dish/台式卤肉饭/台式卤肉饭.md)
