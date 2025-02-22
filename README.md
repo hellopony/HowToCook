@@ -331,6 +331,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [冰粉](dishes/drink/冰粉/冰粉.md)
 - [菠萝咖啡特调](dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
 - [冬瓜茶](dishes/drink/冬瓜茶.md)
+- [海边落日](dishes/drink/海边落日/海边落日.md)
 - [金菲士](dishes/drink/金菲士/金菲士.md)
 - [金汤力](dishes/drink/金汤力/金汤力.md)
 - [可乐桶](dishes/drink/可乐桶.md)
